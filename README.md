@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @Ogoubi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Bonjour et bienvenue
+Je me nomme Mr OGOUBI Mouktadirou. Etudiant en Informatique plus precisement en Cybersecurité.
+J'offre les services tel que:
 
-<!---
-Ogoubi/Ogoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+La conception de vos site web
+L'installation des système d'exploition avec les logiciels de base
+Le craquage des logiciels payants
+Le diagnostic de votre ordinateur
+Le diagnostic de vos site web afin de resortir ces failles et la resolution
+L'installation de toute sorte de logiciels que vous souhaité
+Le piratage ethique
+Offre de formation
+Chez moi, Zero piratage. Votre securité, mon soucis
+facebook email
+suggestion
+Écrit moi 👇👇👇
+https://www.facebook.com/ogoubidev
